@@ -16,7 +16,7 @@ Solved lab: First exam date of the summer session a.k.a `NIA ~ National Insecuri
 ##  [Report HTML version](reports/report.html)
 ##  [Report PDF version](reports/report.pdf)
 ##  [Script Used](scripts)
-### Resource used for the making the report: https://vulnrepo.com (https://github.com/kac89/vulnrepo)
+### Resource used for making the report: https://vulnrepo.com (https://github.com/kac89/vulnrepo)
 
 Repo dump key:
 
