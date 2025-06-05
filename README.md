@@ -12,9 +12,10 @@ The repo contains all scripts and notes about the PT conducted.
 Solved lab: First exam date of the summer session a.k.a `NIA ~ National Insecurity Agency`
 
 ##  [Assignment](Assignment%20June%202025.pdf) 
-##  [Report Markdown version](report.md)
-##  [Report HTML version](report.html)
-##  [Report PDF version](report.pdf)
+##  [Report Markdown version](reports/report.md)
+##  [Report HTML version](reports/report.html)
+##  [Report PDF version](reports/report.pdf)
+##  [Script Used](scripts)
 ### Resource used for the making the report: https://vulnrepo.com (https://github.com/kac89/vulnrepo)
 
 Repo dump key:
